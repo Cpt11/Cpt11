@@ -1,12 +1,13 @@
 ### Hi there 👋
 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cpt11&theme=dark&layout=compact)
+
 <!--
 **Cpt11/Cpt11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Here are some ideas to get you started:
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cpt11coderfix-lab&theme=dark&layout=compact)
 
 
 - 🔭 I’m currently working on ...
